@@ -1,0 +1,39 @@
+D:\B16韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe.config
+D:\B16韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe
+D:\B16韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.pdb
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csprojResolveAssemblyReference.cache
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Form1.resources
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Properties.Resources.resources
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csproj.GenerateResource.Cache
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.exe
+D:\B16韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.pdb
+E:\作业作业\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe.config
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.exe
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.pdb
+E:\作业作业\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe
+E:\作业作业\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.pdb
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csprojResolveAssemblyReference.cache
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Form1.resources
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Properties.Resources.resources
+E:\作业作业\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csproj.GenerateResource.Cache
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe.config
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.exe
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.pdb
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.pdb
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csprojResolveAssemblyReference.cache
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Form1.resources
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Properties.Resources.resources
+D:\B16韦定君\B16 韦定君\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csproj.GenerateResource.Cache
+I:\作业作业\26 查询\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe.config
+I:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.exe
+I:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.pdb
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe.config
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.exe
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.pdb
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csprojResolveAssemblyReference.cache
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Form1.resources
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.Properties.Resources.resources
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\obj\Debug\SQLExcel1.csproj.GenerateResource.Cache
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.exe
+E:\作业作业\26 查询\SQLExcel1\SQLExcel1\bin\Debug\SQLExcel1.pdb

@@ -1,0 +1,9 @@
+D:\B16韦定君\NewBookSQL\NewBookSQL\bin\Debug\NewBookSQL.exe.config
+D:\B16韦定君\NewBookSQL\NewBookSQL\bin\Debug\NewBookSQL.exe
+D:\B16韦定君\NewBookSQL\NewBookSQL\bin\Debug\NewBookSQL.pdb
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.csprojResolveAssemblyReference.cache
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.Form1.resources
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.Properties.Resources.resources
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.csproj.GenerateResource.Cache
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.exe
+D:\B16韦定君\NewBookSQL\NewBookSQL\obj\Debug\NewBookSQL.pdb

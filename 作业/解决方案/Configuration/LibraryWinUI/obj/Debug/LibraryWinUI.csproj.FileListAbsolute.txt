@@ -1,0 +1,2 @@
+E:\解决方案\Configuration\LibraryWinUI\bin\Debug\Library.LibraryWinUI.exe.config
+I:\作业作业\解决方案\Configuration\LibraryWinUI\bin\Debug\Library.LibraryWinUI.exe.config

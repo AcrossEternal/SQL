@@ -1,0 +1,11 @@
+G:\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+G:\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+G:\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+G:\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+G:\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
+I:\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+I:\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+I:\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
+I:\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+I:\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+I:\Enumeration\Enumeration\obj\Debug\Enumeration.csprojResolveAssemblyReference.cache

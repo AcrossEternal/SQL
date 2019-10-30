@@ -1,0 +1,15 @@
+E:\liao\MIS开发实战\2008-2009上学期\1015\LibraryManagementSystem\Comm\bin\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009上学期\1015\LibraryManagementSystem\Comm\bin\Debug\Comm.pdb
+E:\liao\MIS开发实战\2008-2009上学期\1015\LibraryManagementSystem\Comm\obj\Debug\ResolveAssemblyReference.cache
+E:\liao\MIS开发实战\2008-2009上学期\1015\LibraryManagementSystem\Comm\obj\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009上学期\1015\LibraryManagementSystem\Comm\obj\Debug\Comm.pdb
+E:\liao\MIS开发实战\2008-2009上学期\1015（new)\LibraryManagementSystem\Comm\bin\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009上学期\1015（new)\LibraryManagementSystem\Comm\bin\Debug\Comm.pdb
+E:\liao\MIS开发实战\2008-2009上学期\1015（new)\LibraryManagementSystem\Comm\obj\Debug\ResolveAssemblyReference.cache
+E:\liao\MIS开发实战\2008-2009上学期\1015（new)\LibraryManagementSystem\Comm\obj\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009上学期\1015（new)\LibraryManagementSystem\Comm\obj\Debug\Comm.pdb
+E:\liao\MIS开发实战\2008-2009下学期\090505\LibraryManagementSystem\Comm\bin\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009下学期\090505\LibraryManagementSystem\Comm\bin\Debug\Comm.pdb
+E:\liao\MIS开发实战\2008-2009下学期\090505\LibraryManagementSystem\Comm\obj\Debug\ResolveAssemblyReference.cache
+E:\liao\MIS开发实战\2008-2009下学期\090505\LibraryManagementSystem\Comm\obj\Debug\Comm.dll
+E:\liao\MIS开发实战\2008-2009下学期\090505\LibraryManagementSystem\Comm\obj\Debug\Comm.pdb

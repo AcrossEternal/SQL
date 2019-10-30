@@ -1,0 +1,13 @@
+G:\WindowSystem\WindowSystem\bin\Debug\WindowSystem.exe.config
+G:\WindowSystem\WindowSystem\bin\Debug\WindowSystem.exe
+G:\WindowSystem\WindowSystem\bin\Debug\WindowSystem.pdb
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.Form1.resources
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.Properties.Resources.resources
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.System2.resources
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.csproj.GenerateResource.Cache
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.exe
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.pdb
+G:\WindowSystem\WindowSystem\obj\Debug\WindowSystem.csprojResolveAssemblyReference.cache
+E:\SQL作业\作业\WindowSystem\WindowSystem\bin\Debug\WindowSystem.exe.config
+E:\SQL作业\作业\WindowSystem\WindowSystem\obj\Debug\WindowSystem.exe
+E:\SQL作业\作业\WindowSystem\WindowSystem\obj\Debug\WindowSystem.pdb
